@@ -16,7 +16,8 @@ Mathbot is a simple chatbot that can solve basic mathematical operations, such a
 ## How to Run the Bot
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/Thasniem/Mathbot.git
+    git clone https://github.com/Thasniem/Mathbot
+
     ```
 
 2. Navigate to the project directory:
